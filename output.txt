@@ -1,0 +1,34 @@
+[
+  {
+    "NAME": "Tyrannosaurus Rex",
+    "STRIDE_LENGTH": "5.76",
+    "STANCE": "bipedal",
+    "LEG_LENGTH": "2.5",
+    "DIET": "carnivore",
+    "SPEED": 6.84
+  },
+  {
+    "NAME": "Velociraptor",
+    "STRIDE_LENGTH": "2.72",
+    "STANCE": "bipedal",
+    "LEG_LENGTH": "1.0",
+    "DIET": "carnivore",
+    "SPEED": 5.7
+  },
+  {
+    "NAME": "Struthiomimus",
+    "STRIDE_LENGTH": "1.34",
+    "STANCE": "bipedal",
+    "LEG_LENGTH": "0.92",
+    "DIET": "omnivore",
+    "SPEED": 1.45
+  },
+  {
+    "NAME": "Hadrosaurus",
+    "STRIDE_LENGTH": "1.4",
+    "STANCE": "bipedal",
+    "LEG_LENGTH": "1.2",
+    "DIET": "herbivore",
+    "SPEED": 0.61
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "challengeled",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jasmine": "^3.4.0",
+    "jest": "^20.0.3"
+  },
+  "dependencies": {
+    "fast-csv": "^2.5.0"
+  }
+}
