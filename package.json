@@ -13,6 +13,6 @@
     "jest": "^20.0.3"
   },
   "dependencies": {
-    "fast-csv": "^2.5.0"
+    "fast-csv": "^4.3.6"
   }
 }
